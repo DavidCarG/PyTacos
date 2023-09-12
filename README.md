@@ -1,6 +1,8 @@
 # PyTacos
 🌮 Oliver: Your Friendly Mexican Restaurant Order Assistant 🌮  Introducing Oliver, the charming chatbot that takes your order in a Mexican restaurant with a personalized touch! Say adios to traditional menus and hola to a new, interactive way of placing your favorite Mexican dishes.
 
+![Pytacos main img](frontend/img/PyTacosIMG.JPG)
+
 # Oliver Chatbot Project
 
 Welcome to the Oliver Chatbot project! This project features a conversational chatbot designed to assist users in choosing delicious Mexican dishes. The chatbot interacts with users through a user-friendly HTML interface and utilizes Google Dialogflow for natural language processing.
